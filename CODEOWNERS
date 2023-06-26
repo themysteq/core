@@ -739,6 +739,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/meteo_france/ @hacf-fr @oncleben31 @Quentame
 /tests/components/meteo_france/ @hacf-fr @oncleben31 @Quentame
 /homeassistant/components/meteoalarm/ @rolfberkenbosch
+/homeassistant/components/meteoalarmeu/ @themysteq
+/tests/components/meteoalarmeu/ @themysteq
 /homeassistant/components/meteoclimatic/ @adrianmo
 /tests/components/meteoclimatic/ @adrianmo
 /homeassistant/components/metoffice/ @MrHarcombe @avee87

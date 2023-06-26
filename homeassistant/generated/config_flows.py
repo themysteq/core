@@ -266,6 +266,7 @@ FLOWS = {
         "met",
         "met_eireann",
         "meteo_france",
+        "meteoalarmeu",
         "meteoclimatic",
         "metoffice",
         "mikrotik",

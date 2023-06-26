@@ -3266,6 +3266,12 @@
       "config_flow": false,
       "iot_class": "cloud_polling"
     },
+    "meteoalarmeu": {
+      "name": "MeteoAlarm Europe",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "meteoclimatic": {
       "name": "Meteoclimatic",
       "integration_type": "hub",
